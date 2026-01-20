@@ -30,5 +30,5 @@ A simple and interactive **Quiz Website** built using **HTML, CSS, and JavaScrip
 * Improve UI/UX
 * Make the quiz responsive
 
-✨ Feel free to fork, modify, and improve this project!
+✨ Feel free to fork, modify, and improve this project
 
